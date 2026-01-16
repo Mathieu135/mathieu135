@@ -1,16 +1,15 @@
 # Hi there, I'm Mathieu! 👋
 
 * 🌱 I'm currently working on **DevOps** and **Cloud Infrastructure**
-* 👨‍💻 All of my projects are available at **[here](https://github.com/mathieu-leitzelman)**
+* 👨‍💻 All of my projects are available at **[here](https://github.com/mathieu135)**
 * 📫 How to reach me **[mathieu.leitzelman@gmail.com](mailto:mathieu.leitzelman@gmail.com)**
 * 📍 Based in **Montpellier, France**
-* ⚡ Fun fact **K3s homelab enthusiast** 🚀
 
 ## 😎 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathieu-leitzelman)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leitzelman-mathieu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathieu.leitzelman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathieu-leitzelman)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathieu135)
 
 ## 👨‍💻 Technologies and Tools
 
@@ -35,16 +34,16 @@
 
 ## 🚀 Professional Experience
 
-### 🔹 DevOps Engineer @ Sonergia (2024-2025)
+### 🔹 DevOps Engineer (2024-2025)
 - ☁️ AWS infrastructure design and optimization (EC2, VPC, S3, RDS, IAM, Lambda, Fargate)
 - 🔄 CI/CD pipeline implementation with GitHub Actions (automated testing, linting, Docker builds, blue-green deployments)
 - 🏗️ Infrastructure automation using Terraform and Ansible (reusable modules, multi-environment)
 - 📊 Monitoring and observability via CloudWatch and Datadog (logs, dashboards, alerting)
 - 🔐 Authentication management with Keycloak (SSO, role-based access control)
 - 💰 AWS cost optimization (rightsizing, auto-scaling, storage optimization, FinOps)
-- 🚢 Enhanced scalability, reliability, and progressive deployments (blue-green implementation)
+- 🚢 Enhanced scalability, reliability, and progressive deployments (blue-green)
 
-### 🔹 Full-Stack Developer | DevOps @ Santédiscount/Atida (2019-2024)
+### 🔹 Full-Stack Developer | DevOps (2019-2024)
 - 💻 Full-stack web development (PHP, JavaScript, Symfony) and external API integrations (Emarsys, Algolia, Lengow)
 - 🐳 Dockerized CI/CD deployment industrialization (build, test, automated deployments)
 - 🏗️ AWS infrastructure design and evolution (EC2, S3, RDS, Route53, WAF)
